@@ -1,0 +1,87 @@
+.gradient-background{
+    background-image: url(https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpVmOHiw.png);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    font-family: 'Source Serif Pro', serif;
+    text-align: justify;
+    }
+
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+  body{
+ background-color:#100735;
+  }
+
+
+  .nav-link{
+    color: #e6e6e6;
+  }
+.col-md-4 span{
+
+    color: #e6e6e6;
+}
+
+.container > img{
+    border-radius: 50%;
+    height: 200px;
+}
+
+p{
+    color: #e6e6e6;
+    font-weight: ;
+    
+}
+.email {
+    color: #76646c;
+}
+
+
+h1{
+    color: #e6e6e6;
+}
+
+label{
+    color: #e6e6e6}
+
+    .col{
+        height: 100%;
+        font-weight: bold;
+    }
+    h3{
+        color: #e6e6e6;
+    }
+
+    hr{
+        color: #e6e6e6;
+    }
+
+    ul{
+        color: #e6e6e6;
+    }
+    ol{
+        color: #e6e6e6;
+    }
+
+    table{
+        color: #e6e6e6;
+    }
+    .navbar-nav > li > .dropdown-menu { background-color: #100735; 
+    }
+.dropdown-item{
+  color: #e6e6e6;
+}
+
+a {
+  color: Black;
+  text-decoration: none; /* no underline */
+}
